@@ -1,6 +1,11 @@
 # PDV_SISTEMA_DE_RESTAURANTE<h1>sistema de controle de pedidos e controle de mesas  para lanchonetes <br>
 login giovanni<br>
-senha 123</h1><br>
+senha 123<br>
+USE O ARQUIVO PDV2.0.RAR  ESTÁ  FUNCIONANDO PERFEITAMENTE  SEM CONFLITOS
+
+ </h1><br>
+
+
 o sistema teve início em 2019, acabou ficando parado  e tomei contunuidade neste  e em outros projetos,<br>
 o sistema apresenta alguns erros! feedbacks, e correções são bem vindas!
 
